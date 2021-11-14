@@ -25,13 +25,13 @@ ul {
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row-reverse;
-    justify-content: space-between;
+    flex-direction: row;
+    justify-content: flex-start;
 }
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
 }
 
