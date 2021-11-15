@@ -28,12 +28,13 @@ ul {
     flex-direction: row;
     justify-content: flex-start;
 }
-.container-navigation {
+/*.container-navigation {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column-reverse;
     justify-content: center;
-}
+} 
+
 
 /* section one flex grow and shrink */
 
