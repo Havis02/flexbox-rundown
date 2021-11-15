@@ -36,7 +36,11 @@ ul {
 } 
 
 
+
 /* section one flex grow and shrink */
+.push {
+    margin-left: auto;
+}
 
 .section-one {
     background-color: blueviolet;
