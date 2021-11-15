@@ -90,7 +90,7 @@ li {
 /* section 2 center item */
 
 .section-two {
-    background-color: orangered;
+    background-color: rgb(205, 179, 253);
     height: 700px;
     display: flex;
     align-items: center;
@@ -119,7 +119,14 @@ iframe {
 
 .section-four {
     background-color: darkslateblue;
-    height: 500px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-style: italic;
+    color: lightyellow;
+    text-align: center;
     
 }
 
