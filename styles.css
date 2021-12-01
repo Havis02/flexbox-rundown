@@ -135,7 +135,6 @@ iframe {
 
 .section-five {
     background-color: goldenrod;
-    height: 1400px;
     
 }
 .mediacontent {
@@ -173,6 +172,17 @@ button:hover {
 }
 button:active {
     background-color: lightblue;
-    box-shadow: darkorchid;
+    box-shadow: 0 5px darkred;
     transform: translateY(4px);
+}
+/* footer goes here */
+
+footer {
+    background-color: rebeccapurple;
+    height: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    color: white;
+    padding: 10px 0px;
 }
