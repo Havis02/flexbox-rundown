@@ -137,7 +137,7 @@ iframe {
     background-color: #d95a11;
     
 }
-.mediacontent {
+.media-container {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
@@ -149,10 +149,12 @@ iframe {
     flex: 1;
     padding: 10px;
 }
-.media-container {
+.mediacontent {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: navy;
     font-size: 20px;
+    
+
 }
 /* button style */
 
